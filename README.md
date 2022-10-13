@@ -7,7 +7,7 @@
 Please find a task description in the seperate handout on the moodle plattform of this course.
 
 Good luck :four_leaf_clover:
-- [ ] Task 1
+- [x] Task 1
 - [x] Task 2
 - [x] Task 3
 - [x] Task 4
