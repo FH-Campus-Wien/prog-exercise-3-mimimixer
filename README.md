@@ -8,8 +8,8 @@ Please find a task description in the seperate handout on the moodle plattform o
 
 Good luck :four_leaf_clover:
 - [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
-- [ ] Task 5
-- [ ] Task 6
+- [x] Task 2
+- [x] Task 3
+- [x] Task 4
+- [x] Task 5
+- [x] Task 6

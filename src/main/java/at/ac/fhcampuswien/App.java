@@ -8,7 +8,7 @@ public class App {
     public static void main(String[] args) {
 
         System.out.println("Task 1: One Month Calendar");
-        oneMonthCalendar(31,7);
+        oneMonthCalendar(30,6);
 
         System.out.println("Task 2: Pseudo Random Number");
         //lcg(4789098765434567890L);
@@ -59,7 +59,7 @@ public class App {
                         System.out.print(tage + " ");
                         //    System.out.print(" ");
                     }
-                    if (i == 7) {
+                    if (i == 7 && tage!=monatslaenge) {
                         System.out.println();
                         i = 0;
                     }
@@ -69,10 +69,6 @@ public class App {
                     }
                 }
             }
-
-
-
-
     }
     public static long[] lcg(long seed){
         int a=1103515245, c=12345;
